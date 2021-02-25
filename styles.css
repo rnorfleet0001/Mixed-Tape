@@ -1,0 +1,56 @@
+
+body{
+  background: LightGray;
+  font-family: helvetica,arial, sans-serif;
+  color: #990033;
+  margin:0;
+}
+    .cover {
+    background: url("l71Xxpn8sUJL._SL1500_.jpg");
+    height: 400px;
+    background-position:center;
+    background-color:LightGray;
+    background-repeat:no-repeat;
+    background-size:contain;
+    }
+  h1
+  { border: black 4px solid;
+    text-align:center;
+  }
+  p{
+    border: black 4px solid;
+   }
+  img{
+    width:50%;
+  }
+    h3{
+        text-align:center;
+        color: darkblue;
+        border:black 2px solid;
+    h1{
+    text-align:center;
+  }
+    h4{
+      text-align:center;
+    }
+    h2{
+      text-align: center;
+    }
+
+  a{
+      text-decoration: none;
+  }
+
+  #one{
+    font-size:2em;
+    color:darkblue;
+  }
+  .center{
+    /* margin:auto; */
+    /* width:100% px; */
+    /* display: block; */
+   }
+
+   ol{
+
+   }
